@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff000000">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:background="#ff0f0f0f"
+        android:text="SAVE"
+        android:textColor="#ff37e012"
+        android:layout_marginBottom="30dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:layout_gravity="center"
+        android:background="#ff111111"
+        android:textColor="#ff38ff00"
+        android:minWidth="200dp"
+        android:maxWidth="400dp"
+        android:minHeight="35dp"
+        android:text="Untitled"
+        android:textAlignment="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="SAVE SONG"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal|top"
+        android:textColor="#ff13ff00"
+        android:textSize="35dp" />
+</FrameLayout>

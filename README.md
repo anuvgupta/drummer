@@ -2,10 +2,10 @@
 Android app for creating drumbeats.
 Built with Android Studio for API 21 (Android KitKat).
 Created for Android App Making class at ID Tech Stanford summer camps in June 2014.
-Watch this (demo)[https://www.youtube.com/watch?v=3RtFNokTpac].
+Watch this [demo](https://www.youtube.com/watch?v=3RtFNokTpac).
 
 # features
- - Watch (demo)[https://www.youtube.com/watch?v=3RtFNokTpac]
+ - Watch [demo](https://www.youtube.com/watch?v=3RtFNokTpac)
  - 9 drumset instruments, each corresponds to a row of checkboxes
  - Each column of checkboxes corresponds to the time at which a note is played
  - One can create new pages (new sets of columns) with the + button, which allows for longer projects

@@ -1,6 +1,6 @@
 # drummer  
 Android app for creating drumbeats.  
-Built with Android Studio for API 21 (Android KitKat).  
+Built with Android Studio for API 21 (Android KitKat) on OSX.  
 Created for Android App Making class at ID Tech Stanford summer camps in June 2014.  
 Watch this [demo](https://www.youtube.com/watch?v=3RtFNokTpac).  
 
